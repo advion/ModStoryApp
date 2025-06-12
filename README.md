@@ -6,6 +6,9 @@ A native MacOS Vintage Story Mod Manager
 <tr>
 <td><img src="https://github.com/advion/ModStoryApp/blob/main/installedmods.png" alt="ModStory Main Interface" width="100%"></td>
 <td><img src="https://github.com/advion/ModStoryApp/blob/main/moddetail.png" alt="ModStory Mod Details" width="100%"></td>
+</tr>
+</table>
+<table>
 <td><img src="https://github.com/advion/ModStoryApp/blob/main/settingsdemo.png" alt="ModStory Demo Mode" width="100%"></td>
 <td><img src="https://github.com/advion/ModStoryApp/blob/main/settings.png" alt="ModStory Settings" width="100%"></td>
 </tr>
