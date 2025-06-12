@@ -9,7 +9,7 @@ ModStory helps you manage your game mods by providing a relatively easy to use i
 ## Features
 
 - Update Checking: Automatically check for available updates for your installed mods
-- One-Click Updates: Download and install mod updates with a single click or update only the ones you want
+- One-Click Updates: Download and install mod updates with a single click or update only the ones you choose
 - Detailed Mod Information: View mod descriptions, changelogs, tags
 
 ## Roadmap
