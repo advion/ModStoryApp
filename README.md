@@ -2,6 +2,13 @@
 
 A native MacOS Vintage Story Mod Manager
 
+<table>
+<tr>
+<td><img src="https://github.com/advion/ModStoryApp/blob/main/installedmods.png" alt="ModStory Main Interface" width="100%"></td>
+<td><img src="https://github.com/advion/ModStoryApp/blob/main/moddetail.png" alt="ModStory Mod Details" width="100%"></td>
+</tr>
+</table>
+
 ## Overview
 
 ModStory helps you manage your game mods by providing a relatively easy to use interface for viewing, and updating your installed mods.
@@ -11,6 +18,13 @@ ModStory helps you manage your game mods by providing a relatively easy to use i
 - Update Checking: Automatically check for available updates for your installed mods
 - One-Click Updates: Download and install mod updates with a single click or update only the ones you choose
 - Detailed Mod Information: View mod descriptions, changelogs, tags
+
+<table>
+<tr>
+<td><img src="https://github.com/advion/ModStoryApp/blob/main/settingsdemo.png" alt="ModStory Demo Mode" width="100%"></td>
+<td><img src="https://github.com/advion/ModStoryApp/blob/main/settings.png" alt="ModStory Settings" width="100%"></td>
+</tr>
+</table>
 
 ## Roadmap
 
@@ -31,7 +45,6 @@ ModStory helps you manage your game mods by providing a relatively easy to use i
 2. Select your mods directory when prompted
 3. Browse your installed mods, click them for detailed information and changelogs
 4. Download and install updates as needed
-
 
 If you have issues with finding or updating mods go into Settings and choose your mod directory again.
 
