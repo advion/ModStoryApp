@@ -36,7 +36,7 @@ ModStory helps you manage your game mods by providing a relatively easy to use i
 
 ## Requirements
 
-- macOS 14.0 or later
+- macOS 15.0 or later
 - Vintage Story game installation
 
 ## Usage
